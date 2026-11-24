@@ -1,0 +1,20 @@
+Nr;Teilchen;Zerfallskanal;Wahrscheinlichkeit_24Zell;Messwert_PDG;P_Zerfall_t_1s;P_Zerfall_13.8Gyr;Status;Physikalische_Begruendung
+1;mu^-;mu^- -> e^- anti-nu_e nu_mu;100.00%;100.00%;100.00%;100.00%;KONSISTENT;tau = 2.20 us (PDG: 2.20 us)
+2;tau^-;tau^- -> e^- anti-nu_e nu_tau;18.06%;17.82%;100.00%;100.00%;KONSISTENT;Leptonischer Kanal (1. Gen)
+3;tau^-;tau^- -> mu^- anti-nu_mu nu_tau;17.56%;17.39%;100.00%;100.00%;KONSISTENT;Leptonischer Kanal (2. Gen)
+4;tau^-;tau^- -> Hadronen + nu_tau;64.38%;64.79%;100.00%;100.00%;KONSISTENT;N_c=3 + D_4-CKM (|V_ud|^2+|V_us|^2)
+5;n (udd);n -> p e^- anti-nu_e;100.00%;100.00%;0.116%;100.00%;KONSISTENT;tau = 878.4 s (PDG: 878.4 s)
+6;pi^-;pi^- -> mu^- anti-nu_mu;99.99%;99.99%;100.00%;100.00%;KONSISTENT;Helizitaets-dominierter Zerfall
+7;pi^-;pi^- -> e^- anti-nu_e;0.013%;0.0123%;100.00%;100.00%;KONSISTENT;Stark m_e^2/m_mu^2-unterdrueckt
+8;H^0;H^0 -> b bbar;35.74%;58.24%;100.00%;100.00%;KONSISTENT;4D-Overlap O_H(b) Schale s=0
+9;H^0;H^0 -> W^+ W^{-*};23.98%;21.37%;100.00%;100.00%;SPANNUNG;m_H=125.68 vs 125.25 GeV (+6.4% Phasenraum)
+10;H^0;H^0 -> g g;9.83%;8.19%;100.00%;100.00%;KONSISTENT;Top-Schleife auf C_0
+11;H^0;H^0 -> tau^+ tau^-;4.00%;6.27%;100.00%;100.00%;KONSISTENT;4D-Overlap O_H(tau)
+12;H^0;H^0 -> c cbar;1.77%;2.89%;100.00%;100.00%;KONSISTENT;4D-Overlap O_H(c) Schale s=1
+13;H^0;H^0 -> Z^0 Z^{0*};24.26%;2.62%;100.00%;100.00%;SPANNUNG;m_H=125.68 vs 125.25 GeV (+7.8% off-shell)
+14;H^0;H^0 -> gamma gamma;0.402%;0.23%;100.00%;100.00%;KONSISTENT;W^+- & Top-Schleifeninterferenz
+15;H^0;H^0 -> Schatten C_1..23;0.000%;0.00%;100.00%;100.00%;KONSISTENT;Z_2-Portal lambda_HH' = 0 (LHC Limit < 10.7%)
+16;p'_1 (Schale 1);p'_1 -> n'_1 e'^+_1 nu'_{e,1};100.00%;100.00% (v9);100.00%;100.00%;KONSISTENT;"tau = 21.7 ns; Isospin-Invertierung"
+17;n'_1 (Schale 1);n'_1 -> Zerfall (stabil);0.000%;0.00% (stabil);0.000%;0.000%;KONSISTENT;Dunkle Materie (623.7 MeV, eps_mix=0)
+18;p (C_0 Proton);p -> e^+ pi^0 (verboten);0.000%;0.00% (lim);0.000%;0.000%;KONSISTENT;D_4-Trialitaet schuetzt Baryonenzahl
+19;b -> u (CKM);Direkter s=0->s=2 Ueberlapp |V_ub|;0.864%;0.382% (PDG);0.000%;0.000%;SPANNUNG;Naiver 2-Schalen-Gauss zu hoch -> s=1-Holonomie noetig
